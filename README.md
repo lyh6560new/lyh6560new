@@ -43,6 +43,5 @@
 </p>
 
 -----
-Credits: [YuhanLiu](https://lyh6560new.github.io/)
 
 Last Edited on: 15/05/2023
