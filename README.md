@@ -12,7 +12,7 @@
 
 - 👨🏽‍💻  I’m currently a junior undergraduate@XJTU :wink:.
 - 🌱  I’m mostly interested in natural language processing and social network analysis. 
-- 💬  Ask me about anything, I am happy to help.
+- 💬  I’m looking for a Ph.D. position in NLP starting in Fall 2024.
 - 📫  How to reach me: lyh6560@stu.xjtu.edu.cn.
 
 ***
