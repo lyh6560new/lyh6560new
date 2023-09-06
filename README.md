@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://lyh6560new.github.io/">Yuhan</a></h2>
+<h2 align="center">Hey <img src="https://lyh6560new.github.io/assets/profile-pics/yuhanliu.jpg" width="10px"> , I'm <a href="https://lyh6560new.github.io/">Yuhan</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/liu-yuhan-452999251/">LinkedIN</a> •
   <a href="https://twitter.com/Lyhhhh2333">Twitter</a>
