@@ -9,10 +9,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently a senior undergraduate@XJTU :wink:.
-- 🌱  I’m mostly interested in natural language processing and social network analysis. 
-- 💬  I’m looking for a Ph.D. position in NLP starting in Fall 2024.
-- 📫  How to reach me: lyh6560@stu.xjtu.edu.cn.
+- 👨🏽‍💻  I’m currently an incoming PhD student @NYU Courant, advised by Prof.Eunsol Choi :wink:.
+- 🌱  I’m mostly interested in natural language processing. 
+- 💬  Come and chat with me if you are interested in collaboration.
+- 📫  How to reach me: yl13579@nyu.edu.
 
 ***
 
