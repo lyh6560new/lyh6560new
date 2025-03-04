@@ -1,7 +1,7 @@
 <h2 align="center">Hey! <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="10px"> I am Yuhan. </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/liu-yuhan-452999251/">LinkedIN</a> •
-  <a href="https://twitter.com/YuhanLiu_nlp">Twitter</a> •
+  <a href="https://twitter.com/YuhanLiu_nlp">X</a> •
   <a href="https://lyh6560new.github.io/](https://yuhan.vercel.app/)">Persnal Website</a>
 </p>
 
