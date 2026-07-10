@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently a CS PhD student @NYU Courant, advised by Prof.Eunsol Choi :wink:.
+- 👨🏽‍💻  I’m currently a CS PhD student @NYU Courant :wink:.
 - 🌱  I’m mostly interested in natural language processing. 
 - 💬  Come and chat with me if you are interested in collaboration.
 - 📫  How to reach me: yl13579@nyu.edu.
