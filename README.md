@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently a CS PhD student @NYU Courant :wink:.
-- 🌱  I’m mostly interested in natural language processing. 
+- 🌱  I’m mostly interested in ML and NLP. 
 - 💬  Come and chat with me if you are interested in collaboration.
 - 📫  How to reach me: yl13579@nyu.edu.
 
