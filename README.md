@@ -37,10 +37,8 @@
 
 <br />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lyh6560new/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=lyh6560new)
+
 
 -----
 
