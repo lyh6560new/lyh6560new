@@ -1,11 +1,11 @@
-<h2 align="center">Hey! <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="10px"> I am Yuhan. </h2>
+<h2 align="center">Hey! <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="20px"> I am Yuhan. </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/liu-yuhan-452999251/">LinkedIN</a> •
   <a href="https://twitter.com/YuhanLiu_nlp">X</a> •
   <a href="https://yuhan.vercel.app/">Persnal Website</a>
 </p>
 
-<img align="right" height="250rem" alt="GIF" src="https://i.gifer.com/origin/a0/a0252ac4c0046b423da4683c52fb323d_w200.webp" />
+<img align="right" height="150rem" alt="GIF" src="https://i.gifer.com/origin/a0/a0252ac4c0046b423da4683c52fb323d_w200.webp" />
 
 **Talking about Personal Stuffs:**
 
