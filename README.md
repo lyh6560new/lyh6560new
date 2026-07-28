@@ -1,4 +1,4 @@
-<h2 align="center">Hey! <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="20px"> I am Yuhan. </h2>
+<h2 align="center">Hey! I am Yuhan. </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/liu-yuhan-452999251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YuhanLiu_nlp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
