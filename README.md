@@ -6,7 +6,7 @@
   <a href="mailto:yl13579@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lyh6560new.lyh6560new" alt="profile views" />
 </p>
-<img align="right" height="150rem" alt="GIF" src="https://i.gifer.com/origin/a0/a0252ac4c0046b423da4683c52fb323d_w200.webp" />
+<img src="https://hits.sh/github.com/lyh6560new.svg?style=for-the-badge&label=Profile%20views&color=555555" alt="profile views" />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻  I’m currently a CS PhD student @NYU Courant :wink:.
