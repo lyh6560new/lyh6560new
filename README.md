@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/liu-yuhan-452999251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/YuhanLiu_nlp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://yuhan.vercel.app/"><img src="https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Website" /></a>
+  <a href="https://yuhanliu.super.site/"><img src="https://img.shields.io/badge/Personal%20Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Website" /></a>
   <a href="mailto:yl13579@nyu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=lyh6560new&style=for-the-badge&label=Profile%20views&color=555555" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lyh6560new.lyh6560new" alt="profile views" />
 </p>
 <img align="right" height="150rem" alt="GIF" src="https://i.gifer.com/origin/a0/a0252ac4c0046b423da4683c52fb323d_w200.webp" />
 
